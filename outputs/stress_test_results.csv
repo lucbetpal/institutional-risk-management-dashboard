@@ -1,0 +1,5 @@
+Scenario,Shock,Loss ($),Portfolio Value ($)
+Market Crash (-10%),-10.0,1019878.68,9178908.14
+Severe Crash (-20%),-20.0,2039757.37,8159029.46
+Technology Shock (-15%),-15.0,1529818.02,8668968.8
+High Volatility Day (-5%),-5.0,509939.34,9688847.49
