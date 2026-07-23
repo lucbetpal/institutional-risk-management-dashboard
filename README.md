@@ -221,7 +221,7 @@ Potential enhancements include:
 
 ## 👤 Author
 
-**Luc Pal**
+**Bettina Palattao**
 
 Financial Economics & Accounting Student  
 The University of Sydney
