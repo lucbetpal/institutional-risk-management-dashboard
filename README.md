@@ -182,7 +182,7 @@ pip install -r requirements.txt
 
 ---
 
-## 📁 Outputs
+## Outputs
 
 The notebook exports:
 
@@ -196,7 +196,7 @@ The notebook exports:
 
 ---
 
-## 💡 Real-World Applications
+## Real-World Applications
 
 The techniques implemented in this project are widely used by:
 
@@ -209,7 +209,7 @@ The techniques implemented in this project are widely used by:
 
 ---
 
-## 🔮 Future Improvements
+## Future Improvements
 
 Potential enhancements include:
 
@@ -224,7 +224,7 @@ Potential enhancements include:
 
 ---
 
-## 👤 Author
+## Author
 
 **Bettina Palattao**
 
@@ -241,6 +241,6 @@ Interested in:
 
 ---
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License.
