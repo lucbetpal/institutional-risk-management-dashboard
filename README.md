@@ -1,10 +1,10 @@
-# 📊 Institutional Risk Management Dashboard
+# Institutional Risk Management Dashboard
 
 An institutional-style portfolio risk management dashboard built in Python using live market data. This project demonstrates the implementation of quantitative risk models, portfolio analytics, and interactive visualizations commonly used by banks, hedge funds, and asset managers.
 
 ---
 
-## 📖 Project Overview
+## Project Overview
 
 This project analyzes a multi-asset equity portfolio using historical market data from Yahoo Finance and applies professional risk management techniques to measure and visualize portfolio risk.
 
@@ -12,27 +12,27 @@ The dashboard calculates portfolio performance, Value-at-Risk (VaR), Expected Sh
 
 ---
 
-## 🚀 Features
+## Features
 
-- 📈 Portfolio Performance Analysis
-- 📊 Historical Return Analysis
-- 📉 Correlation & Covariance Matrices
-- 💼 Portfolio Construction
-- 📉 Maximum Drawdown Analysis
-- 📊 Rolling Volatility
-- ⚠ Historical Value-at-Risk (VaR)
-- 📈 Parametric (Variance-Covariance) VaR
-- 🎲 Monte Carlo Simulation VaR
-- 📉 Expected Shortfall (Conditional VaR)
-- 💥 Stress Testing & Scenario Analysis
-- 📊 Portfolio Risk Attribution
-- 📋 Executive Risk Dashboard
-- 📁 CSV & Excel Report Export
-- 📈 Interactive Plotly Visualizations
+- Portfolio Performance Analysis
+- Historical Return Analysis
+- Correlation & Covariance Matrices
+- Portfolio Construction
+- Maximum Drawdown Analysis
+- Rolling Volatility
+- Historical Value-at-Risk (VaR)
+- Parametric (Variance-Covariance) VaR
+- Monte Carlo Simulation VaR
+- Expected Shortfall (Conditional VaR)
+- Stress Testing & Scenario Analysis
+- Portfolio Risk Attribution
+- Executive Risk Dashboard
+- CSV & Excel Report Export
+- Interactive Plotly Visualizations
 
 ---
 
-## 🛠 Technologies Used
+## Technologies Used
 
 - Python
 - Google Colab
@@ -45,7 +45,7 @@ The dashboard calculates portfolio performance, Value-at-Risk (VaR), Expected Sh
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```text
 institutional-risk-management-dashboard/
@@ -64,12 +64,17 @@ institutional-risk-management-dashboard/
 │   ├── stress_test_results.csv
 │   └── risk_management_report.xlsx
 
-└── screenshots/
-```
+├── screenshots/
+  ├── executive_dashboard.png
+  ├── portfolio_value.png
+  ├── correlation_heatmap.png
+  ├── monte_carlo_distribution.png
+  ├── drawdown.png
+  └── risk_contribution.png
 
 ---
 
-## 📸 Project Screenshots
+## Project Screenshots
 
 ### Executive Dashboard
 
@@ -107,7 +112,7 @@ institutional-risk-management-dashboard/
 
 ---
 
-## 📈 Quantitative Models Implemented
+## Quantitative Models Implemented
 
 ### Portfolio Performance Metrics
 
@@ -141,7 +146,7 @@ institutional-risk-management-dashboard/
 
 ---
 
-## 📊 Data Source
+## Data Source
 
 Market data is retrieved using:
 
@@ -157,7 +162,7 @@ Example assets analysed include:
 
 ---
 
-## ▶️ How to Run
+## How to Run
 
 1. Clone this repository.
 
